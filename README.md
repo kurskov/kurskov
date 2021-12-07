@@ -1,9 +1,5 @@
-- 👋 Hi, I’m Dmitrii Kurskov
-- 👀 I’m interested in D&D and other board card and role-playing games.
-- 🌱 I’m currently learning Python and JavaScript.
-- 💞️ I’m looking to collaborate on Django projects.
-
-<!---
-kurskov/kurskov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hello, I’m Dmitrii Kurskov.
+IT-industry is a hobby for me, but sometime is be helpful for my work and live. 
+***
+I’m currently learning Python and JavaScript for create new version of my site (with blackjack and hookers).  
+And I’m interested in D&D and other board card and role-playing games...
