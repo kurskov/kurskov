@@ -6,29 +6,31 @@
 
 Обновляем списки пакетов из репозиториев:    
 ```
-$ sudo apt update
+sudo apt update
 ```
 
 Загружаем и устанавливаем программу:    
 ```
-$ sudo apt install git
+sudo apt install git
 ```
 
 Проверяем версию:    `
 ```
-$ git --version
+git --version
 ```
 
 ## Настройка Git
 
 Инициация пользователя:
 ```
-$ git config --global user.name "Your Name"
-$ git config --global user.email "youremail@domain.com"
+git config --global user.name "Your Name"
+```
+```
+git config --global user.email "youremail@domain.com"
 ```
 Проверка установленных параметров:
 ```
-$ git config --list
+git config --list
 ```
 
 ## Источники
