@@ -304,18 +304,18 @@ ___
 Изображение поумолчанию является ссылкой на себя (см. [Ссылки](#Ссылки))
 Пример:
 ```
-![My avatar](https://avatars.githubusercontent.com/u/3938361 "QR-avatar")
+![My avatar](/images/qr_https_kurskov.ru_150px.png "QR-avatar")
 ```
-![My avatar](https://avatars.githubusercontent.com/u/3938361 "QR-avatar")
+![My avatar](/images/qr_https_kurskov.ru_150px.png "QR-avatar")
 
 Путь к картинке может быть не абсолютный. 
 При обращению к репозиторию могут быть использованы отностельные ссылки.
 
 Картинка может ссылаться не только сама на себя, ее можно вставить в виде текста ссылки.
 ```
-[![My avatar](https://avatars.githubusercontent.com/u/3938361 "QR-avatar")](https://github.com/kurskov)
+[![My avatar](/images/qr_https_kurskov.ru_150px.png "QR-avatar")](https://github.com/kurskov)
 ```
-[![My avatar](https://avatars.githubusercontent.com/u/3938361 "QR-avatar")](https://github.com/kurskov)
+[![My avatar](/images/qr_https_kurskov.ru_150px.png "QR-avatar")](https://github.com/kurskov)
 
 _[К оглавлению](#Оглавление)_
 ___
