@@ -9,4 +9,3 @@ And yet I’m interested in D&D and other board card and role-playing games...
 #### Useful manuals 
 * [Markdown format (rus)](/manuals/markdown-format.md)
 * [Merging repositories (rus)](/manuals/merging-repositories.md)
-* [Buzzer sound](/manuals/buzzer-sound.md)
