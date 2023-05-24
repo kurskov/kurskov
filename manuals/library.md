@@ -6,5 +6,5 @@
 
 ## Python
 
-[Документация по языку Python3](https://docs-python.ru/)
+[Документация по языку Python3](https://docs-python.ru/)  
 [База знаний Django](https://django.fun/)
