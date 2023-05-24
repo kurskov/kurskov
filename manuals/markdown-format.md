@@ -127,7 +127,7 @@ ___
 </html>
 ```
 ````
-Пример разметки для `html`:
+Пример разметки для `HTML`:
 
 ```html
 <html>
@@ -138,6 +138,18 @@ ___
         <p>Content</p>
     </body>
 </html>
+```
+Пример разметки для `Python`:
+
+```python
+from itertools import permutations
+
+n = int(input())
+names = [input() for i in range(n)]
+starts = list(permutations(sorted(names)))
+
+for start in starts:
+    print(", ".join(start))
 ```
 Для отображения тройных кавычек в блоках блоки с тройными кавычками надо заключить в четверные.
 
