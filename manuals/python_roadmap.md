@@ -2,7 +2,8 @@
 
 План основан на следующих источниках:
 - [Python Mentor](https://pymentor.org/)
-- [Подробный план самообучения на бэкенд-разработчика (Python или Ruby) "c нуля до профи"⁠⁠](https://pikabu.ru/story/podrobnyiy_plan_samoobucheniya_na_byekendrazrabotchika_python_ili_ruby_c_nulya_do_profi_9000782)
+- [Подробный план самообучения на бэкенд-разработчика (Python или Ruby) "c нуля до профи"⁠⁠](https://pikabu.ru/story/podrobnyiy_plan_samoobucheniya_na_byekendrazrabotchika_python_ili_ruby_c_nulya_do_profi_9000782)  
+- [Python Developer](https://roadmap.sh/python)
 
 
 ## 0. Git
@@ -13,6 +14,8 @@
    - удаленный репозиторий, merge и rebase
 
 - [ ] [Онлайн тренажер-игра по Git](https://learngitbranching.js.org/)
+
+- [ ] [Pro Git book](https://git-scm.com/book/ru/v2) (книга, 10 глав)
 
 
 ## 1. Синтаксис языка, структуры данных, ООП, модули, алгоритмы
