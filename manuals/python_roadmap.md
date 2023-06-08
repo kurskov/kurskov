@@ -20,7 +20,7 @@
 
 ## 1. Синтаксис языка, структуры данных, ООП, модули, алгоритмы
 
-- [ ] [PEP 8 – Style Guide for Python Code](https://peps.python.org/pep-0008/) ([+ на русском](https://pythonworld.ru/osnovy/pep-8-rukovodstvo-po-napisaniyu-koda-na-python.html))
+- [x] [PEP 8 – Style Guide for Python Code](https://peps.python.org/pep-0008/) ([+ на русском](https://pythonworld.ru/osnovy/pep-8-rukovodstvo-po-napisaniyu-koda-na-python.html))
 
 - [ ] [Академия Яндекса - Основы Python](https://academy.yandex.ru/handbook/python/) (19 глав, 260 задач)
    - базовые конструкции (ввод-вывод, операции, условный оператор, циклы)
