@@ -1,7 +1,25 @@
 # Памятка по использованию языка SQL
 
 ## Источники
-[«SQL: Руководство по стилю»](https://www.sqlstyle.guide/ru/) Саймона Холиуэлла, перевод [denpatin](https://github.com/denpatin) ([СС-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/))
+[«SQL: Руководство по стилю»](https://www.sqlstyle.guide/ru/) Саймона Холиуэлла, перевод [denpatin](https://github.com/denpatin) ([СС-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/))  
+[Интерактивный тренажер по SQL (часть 1.3, шаг 8)](https://stepik.org/lesson/297515/step/8), автор Александра Клинникова с комментариями Ильи Филимонова ([СС-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/))  
+https://www.mysqltutorial.org/mysql-having.aspx/  
+https://www.postgresqltutorial.com/postgresql-tutorial/postgresql-having/  
+
+## Порядок выполнения SQL запроса на выборку на сервере MySQL:
+
+1. FROM
+2. WHERE
+3. GROUP BY
+4. HAVING
+5. DISTINCT
+6. SELECT
+7. ORDER BY
+8. LIMIT
+
+Сначала определяется таблица, из которой выбираются данные (`FROM`), затем из этой таблицы отбираются записи в соответствии с условием `WHERE`, выбранные данные агрегируются (`GROUP BY`), из агрегированных записей выбираются те, которые удовлетворяют условию после `HAVING`. Потом формируются данные результирующей выборки, как это указано после `SELECT` (вычисляются выражения, присваиваются имена и пр. ). Результирующая выборка сортируется, как указано после `ORDER BY`.
+
+Для баз PostgreSQL пункты 5 и 6 меняются местами.
 
 ## Универсальные суффиксы
 
