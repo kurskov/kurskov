@@ -12,3 +12,4 @@ And yet I’m interested in D&D and other board card and role-playing games...
 * [Merging repositories (rus)](/manuals/merging-repositories.md)
 * [Library (rus)](/manuals/library.md)
 * [Python roadmap (rus)](/manuals/python_roadmap.md)
+* [SQL memo (rus)](/manuals/sql_memo.md)
